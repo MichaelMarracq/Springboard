@@ -1,0 +1,9 @@
+1. const pi = 3.14159
+
+2. you can reassign and redeclare a var variable. You can't redeclare a let variable. let is used exclusively in the block it is created in.
+
+3. you cannot reassign or redeclare a const variable. you can do both with var.
+
+4. you can reassign with let. you cannot reassign or redeclare with const.'
+
+5. hoisting is when variables are "hoisted" to the top of the scope they are contained in. you can have variables after a function as an example. 
